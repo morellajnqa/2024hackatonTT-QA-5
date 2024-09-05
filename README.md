@@ -2,13 +2,13 @@
 _____
 
 ## ¿Quienes somos?
-:man_technologist: Antonio :🇲🇽:
+:man_technologist: Antonio <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
 
-:woman_technologist: Fernanda Ramírez :mexico:
+:woman_technologist: Fernanda Ramírez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
 
 :man_technologist: Jorge Albicker
 
-:woman_technologist: Morella Jiménez :venezuela: in :chile:
+:woman_technologist: Morella Jiménez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/ve.svg"/> en <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/cl.svg"/>
 
 :man_technologist: Santiago Sánchez
 
