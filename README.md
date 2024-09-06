@@ -9,7 +9,7 @@ _____
 
 :woman_technologist: Fernanda Ramírez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
 
-:man_technologist: Jorge Albicker
+:man_technologist: Jorge Albicker <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
 
 :woman_technologist: Morella Jiménez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/ve.svg"/> en <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/cl.svg"/>
 
