@@ -1,7 +1,10 @@
-# Triple Ten Hackathon QA - Team #5
+<div id="header" align="center">
+  <img width=80% decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/BANNER%20HACKATHON.png"
+>
+</div>
 _____
 
-## ¿Quienes somos?
+## ¿Quienes somos? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
 :man_technologist: Antonio Ávila <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
 
 :woman_technologist: Fernanda Ramírez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/mx.svg"/>
@@ -36,6 +39,8 @@ _____
 **Restful Booker →** https://github.com/mwinteringham/restful-booker
 _____
 ## Listas de comprobación
+
+[ <img width=170px   decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/LISTAS.png" > ver](https://docs.google.com/spreadsheets/d/1FbLJinfD-1pzsUIiA88D1h-KdrjMbR0y/edit?usp=sharing&ouid=106002822868634665262&rtpof=true&sd=true)
 
 ____
 ## Presentación final
