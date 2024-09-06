@@ -26,17 +26,14 @@ _____
 ## Objetivo
 Evaluar tres aplicaciones web ideando un plan de pruebas, diseñando y ejecutando casos de prueba, reportando hallazgos y presentando con claridad los resultados, en un tiempo de 44 horas.
 
+_____
+## Documentación
 ### Las web que se deben probar son las siguientes:
 **Fake API** → https://fakeapi.platzi.com/
 
 **Bugbank →** https://github.com/jhonatasmatos/bugbank-ui
 
 **Restful Booker →** https://github.com/mwinteringham/restful-booker
-
-
-_____
-## Documentación
-
 _____
 ## Listas de comprobación
 
