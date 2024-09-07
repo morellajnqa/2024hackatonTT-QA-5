@@ -25,7 +25,7 @@ El liderazgo fue compartido, todos aportamos ideas y lineamientos que permitiero
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> **Documents master** Jorge y Fernanda, encargados de documentar las pruebas.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />**Goals master:** Fernanda y Antonio, encargados del seguimiento de la rúbrica.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" alt="Triangular Ruler" width="25" height="25" /> **Designer master:** More, encargada de disponibilizar las herramientas colaborativas y el diseño del github y de la presentación final.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> **Speaker master:**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> **Speaker master:** Fernanda, Jorge y More, encargados de hacer la presentación de los resultados
 
 # Planificación y Preparación
 ## Antes del Hackathon
