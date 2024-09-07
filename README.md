@@ -80,4 +80,7 @@ ____
 - ### Pruebas API: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - ### Devtools: <img width=100px   decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/devtools.jpeg">
 
+____
 
+## Imágenes de referencia
+https://drive.google.com/drive/folders/1Yo8vnoUXrNnDYbGQ9CnLXSRYRNckR2Ia?usp=sharing
