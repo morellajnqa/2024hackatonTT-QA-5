@@ -65,11 +65,13 @@ _____
 
 [ <img width=170px   decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/LISTAS.png" > ver](https://docs.google.com/spreadsheets/d/1FbLJinfD-1pzsUIiA88D1h-KdrjMbR0y/edit?usp=sharing&ouid=106002822868634665262&rtpof=true&sd=true)
 
-## Pruebas automatizadas "Boobking"
+## Pruebas automatizadas "Booking"
 
 En la carpeta "Booking" se encuentran el repositotio de las pruebas automatizadas.
+
 https://github.com/morellajnqa/HackathonTT-QA-2024-T5/tree/main/Booking
 ____
+
 ## Presentación de resultados
 [ <img width=170px   decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/Presentaci%C3%B3n.png" > ver](https://www.canva.com/design/DAGP50vnltI/TtyK47uBThDmDbLD0u-tfQ/view?utm_content=DAGP50vnltI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ____
