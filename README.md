@@ -82,5 +82,5 @@ Comunicación: ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?sty
 
 ____
 
-## Imágenes de referencia
+## Registro de video y fotografía
 https://drive.google.com/drive/folders/1Yo8vnoUXrNnDYbGQ9CnLXSRYRNckR2Ia?usp=sharing
