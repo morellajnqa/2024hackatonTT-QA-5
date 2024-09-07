@@ -13,8 +13,6 @@ _____
 
 :woman_technologist: Morella Jiménez <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/ve.svg"/> en <img width=20px decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/cl.svg"/>
 
-:man_technologist: Santiago Sánchez
-
 _____
 
 ## ¿Cómo nos organizamos?
@@ -23,11 +21,11 @@ Este documento describe cómo nuestro equipo se organizó y colaboró durante el
 ## Estructura del equipo
 
 El liderazgo fue compartido, todos aportamos ideas y lineamientos que permitieron coordinarnos las actividades, aunque todos trabajamos un poco en todas las áreas, la estructura fue la siguiente:
-- **Time master:** Antonio, encargado de llevar el conteo en tiempo real y recordandele al equipo periódicamente el tiempo restante.
-- **Documents master** Jorge y Fernanda, encargados de documentar las pruebas.
-- **Goals master:** Fernanda y Antonio, encargados del seguimiento de la rúbrica.
-- **Designer master:** More, encargada de disponibilizar las herramientas colaborativas y el diseño del github y de la presentación final.
-- **Speaker master:**
+- :hourglass: **Time master:** Antonio, encargado de llevar el conteo en tiempo real y recordandele al equipo periódicamente el tiempo restante.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> **Documents master** Jorge y Fernanda, encargados de documentar las pruebas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />**Goals master:** Fernanda y Antonio, encargados del seguimiento de la rúbrica.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" alt="Triangular Ruler" width="25" height="25" /> **Designer master:** More, encargada de disponibilizar las herramientas colaborativas y el diseño del github y de la presentación final.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> **Speaker master:**
 
 # Planificación y Preparación
 ## Antes del Hackathon
@@ -74,15 +72,12 @@ ____
 
 ## Herramientas y tecnologías
 
-- ### Comunicación:
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-- ### Repositorio:
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ### Documentación:
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-- ### Seguimiento de errores:
-  <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-- ### Diseño:
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-- ### Pruebas API:
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ### Comunicación: ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- ### Repositorio: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ### Documentación: ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+- ### Seguimiento de errores: <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+- ### Diseño: <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+- ### Pruebas API: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ### Devtools: <img width=100px   decoding="async" src="https://github.com/morellajnqa/HackathonTT-QA-2024-T5/blob/main/img/devtools.jpeg">
+
+
