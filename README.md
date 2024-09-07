@@ -55,6 +55,7 @@ Evaluar tres aplicaciones web ideando un plan de pruebas, diseñando y ejecutand
 _____
 ## Retos
 Las web que se probaron son las siguientes:
+
 **Fake API** → https://fakeapi.platzi.com/
 
 **Bugbank →** https://github.com/jhonatasmatos/bugbank-ui
